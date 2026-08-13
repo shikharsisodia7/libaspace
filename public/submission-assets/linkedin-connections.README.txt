@@ -1,0 +1,5 @@
+Add an authentic LinkedIn profile screenshot that visibly shows Shikhar Sisodia's connection count.
+
+Required filename: linkedin-connections.png
+
+The site automatically displays that image in the LinkedIn section. Crop unrelated private information where practical, but do not crop or alter the visible connection count.
